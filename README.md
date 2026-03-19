@@ -9,6 +9,7 @@ Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco a
 * 👥 **Gestão de Pessoas:** Foco em liderança técnica e colaboração de equipes.
 * ⚽ **Análise no Futebol:** Estudando Ciência de Dados, Desempenho e Mercado aplicados ao futebol profissional.
 * 📊 **Dados:** Transformando registros em inteligência para tomada de decisão.
+* 🇪🇪 **Gremista:** Unindo a paixão pelo Tricolor com a análise tática e de dados.
 
 ---
 ''
