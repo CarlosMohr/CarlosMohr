@@ -21,7 +21,7 @@ Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco a
 ---
 
 ### 📫 Vamos Conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Carlos-Mohr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mohr-020a9b233)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:carlosgmohr03@gmail.com)
 
 ---
