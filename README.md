@@ -11,7 +11,7 @@ Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco a
 * 📊 **Dados:** Transformando registros em inteligência para tomada de decisão.
 
 ---
-
+''
 ### 🛠️ Tecnologias e Estudos
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-the-flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-flat&logo=git&logoColor=white)
@@ -21,8 +21,8 @@ Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco a
 ---
 
 ### 📫 Vamos Conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Carlos-Mohr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:carlosgmohr03@gmail.com)
 
 ---
 
