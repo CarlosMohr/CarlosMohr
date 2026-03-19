@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Carlos Mohr! 👋
 
-<!--
-**CarlosMohr/CarlosMohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Sistemas de Informação na AMF (Desde 2022)
+---
 
-Here are some ideas to get you started:
+### 💻 Sobre Mim
+Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco aplicar o rigor dos sistemas de informação para gerar eficiência e inteligência estratégica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👥 **Gestão de Pessoas:** Foco em liderança técnica e colaboração de equipes.
+* ⚽ **Análise no Futebol:** Estudando Ciência de Dados, Desempenho e Mercado aplicados ao futebol profissional.
+* 📊 **Dados:** Transformando registros em inteligência para tomada de decisão.
+
+---
+
+### 🛠️ Tecnologias e Estudos
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-the-flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-flat&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-flat&logo=python&logoColor=white)
+
+---
+
+### 📫 Vamos Conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+
+### 📊 GitHub Stats
+![Status do GitHub de CarlosMohr](https://github-readme-stats.vercel.app/api?username=CarlosMohr&show_icons=true&theme=radical)
