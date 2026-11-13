@@ -6,7 +6,7 @@
 ### 💻 Sobre Mim
 Atuando na intersecção entre tecnologia, gestão e análise esportiva. Busco aplicar o rigor dos sistemas de informação para gerar eficiência e inteligência estratégica.
 
-* 👥 **Gestão de Pessoas:** Foco em liderança técnica e colaboração de equipes.
+* 👥 **Auxiliar de T.I.:** Foco em resolução e solução de problemas.
 * ⚽ **Análise no Futebol:** Estudando Ciência de Dados, Desempenho e Mercado aplicados ao futebol profissional.
 * 📊 **Dados:** Transformando registros em inteligência para tomada de decisão.
 * 🇪🇪 **Gremista:** Unindo a paixão pelo Tricolor com a análise tática e de dados.
